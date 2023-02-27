@@ -1,0 +1,336 @@
+body {
+margin: 0;
+padding: 0;
+background: #E1FCD6;
+}
+
+.nombre {
+    width: 100%;
+    height: 300px;
+    background: #086F05;
+}
+
+.nombre .contenido .t1 {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 40%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 70px;
+}
+
+.nombre .contenido .t2 {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: 100px;
+    left: 50%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 40px;
+}
+
+.trabajos .dato .e1{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 30%;
+    color: #086F05;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 35px;
+}
+
+.trabajos .dato .e2{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 60%;
+    left: 28%;
+    color: #12A40F;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 30px;
+}
+
+.trabajos .dato .e3{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 69%;
+    left: 28%;
+    color: #292A29;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 24px;
+}
+
+.trabajos .dato .e4{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 82%;
+    left: 28%;
+    color: #12A40F;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 30px;
+}
+
+.trabajos .dato .e5{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 97%;
+    left: 28%;
+    color: #292A29;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 24px;
+}
+
+.trabajos .dato .e6{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 106%;
+    left: 28%;
+    color: #12A40F;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 30px;
+}
+
+.trabajos .dato .e7{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 115%;
+    left: 28%;
+    color: #292A29;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 24px;
+}
+
+.trabajos .dato .e8{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 125%;
+    left: 28%;
+    color: #12A40F;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 30px;
+}
+
+.trabajos .dato .e9{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 135%;
+    left: 28%;
+    color: #292A29;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 24px;
+}
+
+.aptitudes .capacidades .h1{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 155%;
+    left:30%;
+    color: #086F05;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 35px;
+}
+
+ul{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 170%;
+    left: 28%;
+    color: #292A29;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 24px;
+}
+
+.hobbies .aficiones .a1{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 215%;
+    left: 30%;
+    color: #086F05;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 35px;
+}
+
+.btn {
+    width: 180px;
+    height: 30px;
+    position: absolute;
+    top: 230%;
+    left: 28%;
+}
+
+.caja {
+    border: black 2px solid;
+    background: white ;
+    color: black;
+    width: 300px;
+    height: 20px;
+    margin: 20px;
+    position: absolute;
+    top: 235%;
+    left: 30%;
+}
+
+.caja.azul{
+    border: black 2px solid;
+    background: rgb(5, 5, 100);
+    color: white;
+    width: 300px;
+    height: 20px;
+    margin: 20px;
+}
+
+.solicitud .actividad .s1 {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 250%;
+    left: 27%;
+    color: #054402;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 33px;
+}
+
+.inscripcion .anotarse .i1 {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 258%;
+    left: 27%;
+    color: #054402;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 28px;
+}
+
+form {
+    position: absolute;
+    top: 270%;
+    left: 27%;
+
+}
+
+.rectangulo {
+    width: 330px;
+    height: 2000px;
+    background: #12A40F;
+    position: relative;
+    left: 20px;
+    bottom: 270px;
+
+}
+
+.rectangulo .img {
+    position: absolute;
+    top: 3%;
+    right: 19%;
+    width: 180px;
+    height: 180px;
+}
+
+.rectangulo .informacion .m1 {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: 700px;
+    left: 30%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 35px;
+}
+
+.rectangulo .informacion .m2 {
+    height: 48%;
+    position: absolute;
+    bottom: 680px;
+    left: 5%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 20px;
+}
+
+dl{
+    height: 48%;
+    position: absolute;
+    bottom: 380px;
+    left: -8%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 20px;
+}
+
+.rectangulo .informacion2 .m3{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: -10px;
+    left: 30%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 35px;
+}
+
+.rectangulo .informacion2 .m4{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: -70px;
+    left: 5%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 20px;
+}
+
+.rectangulo .informacion2 .m5{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: -140px;
+    left: 5%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 20px;
+}
+
+.rectangulo .informacion3 .m6{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: -250px;
+    left: 30%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 35px;
+}
+
+.rectangulo .informacion3 .m7{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: -300px;
+    left: 5%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 20px;
+}
+
+.rectangulo .informacion3 .m8{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: -540px;
+    left: 5%;
+    color: antiquewhite;
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 20px;
+}
